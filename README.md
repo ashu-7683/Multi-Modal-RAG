@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Modal-RAG
 =======
 # Multi-Modal RAG QA — Demo
@@ -17,4 +16,4 @@ Quickstart:
 3. Put `qatar_test_doc.pdf` in `data/` or upload through UI.
 4. Set environment variables: `OPENAI_API_KEY` (optional) or `USE_LOCAL_LLM=1` and `LOCAL_LLM_MODEL`.
 5. Run: `streamlit run app/streamlit_app.py`
->>>>>>> 0fef8f9 (first commit)
+
